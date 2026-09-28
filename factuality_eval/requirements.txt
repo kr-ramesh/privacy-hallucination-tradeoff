@@ -1,0 +1,10 @@
+torch==2.7.1
+transformers==4.53.3
+accelerate
+datasets==4.0.0
+numpy
+pandas
+nltk
+spacy
+rank_bm25
+Core @ git+https://github.com/zipJiang/Core.git

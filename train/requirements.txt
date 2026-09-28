@@ -1,0 +1,13 @@
+datasets==4.0.0
+dp_accounting==0.5.0
+evaluate==0.4.5
+opacus==1.5.4
+numpy
+pandas
+peft==0.16.0
+prv_accountant==0.2.0
+scipy
+torch==2.7.1
+tqdm==4.67.1
+transformers==4.53.3
+wandb

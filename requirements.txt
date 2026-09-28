@@ -1,0 +1,18 @@
+torch==2.7.1
+transformers==4.53.3
+datasets==4.0.0
+accelerate==1.15.0
+peft==0.16.0
+opacus==1.5.4
+dp-accounting==0.5.0
+prv-accountant==0.2.0
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.6
+tqdm==4.67.1
+wandb==0.30.0
+nltk==3.10.3
+spacy==3.8.16
+rank-bm25==0.2.2
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+Core @ git+https://github.com/zipJiang/Core.git@06be19969fda2f6934c8ad3e4cade18e55bae71e
